@@ -1,0 +1,11 @@
+{
+  "name": "youtubeclone",
+  "version": "1.0.0",
+  "description": "youtube clone",
+  "main": "index.js",
+  "author": "kliv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
